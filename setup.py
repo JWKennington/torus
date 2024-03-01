@@ -10,7 +10,7 @@ here = pathlib.Path(__file__).parent.resolve()
 long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setup(name="pytorus",
-      version="0.0.2",
+      version="0.0.3",
       description="TOpic Reference Unified Schema, a Python Implementation",
       long_description=long_description,
       long_description_content_type="text/markdown",
@@ -46,5 +46,6 @@ setup(name="pytorus",
           "Bug Reports": "https://github.com/JWKennington/torus/issues",
           "Funding": "https://www.buymeacoffee.com/locallytrivial",
           "Source": "https://github.com/JWKennington/torus",
+          "Documentation": "https://torus.readthedocs.io/en/latest/"
       },
       )
