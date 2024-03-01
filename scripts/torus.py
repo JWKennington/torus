@@ -2,6 +2,7 @@
 
 
 def main():
+    """Main entry point of the script."""
     print('This is the torus package.')
 
 

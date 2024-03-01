@@ -9,11 +9,11 @@
 
 # Add files or directories to the blacklist. They should be base names, not
 # paths.
-ignore=
+ignore=docs
 
 # Add files or directories matching the regex patterns to the blacklist. The
 # regex matches against base names, not paths.
-ignore-patterns=test_(.)*\.py,apptools.py,notebooks.py,jupyterlab.py,env_update_(.)*\.py,dash_(.)*\.py,app_(.)*\.py,profile_(.)*\.py,migrate_(.)*\.py,setup_(.)*\.py,ftp_(.)*\.py,report_(.)*\.py,gen_(.)*\.py,run_(.)*\.py,check_(.)*\.py
+ignore-patterns=test_(.)*\.py
 
 # Pickle collected data for later comparisons.
 persistent=yes
