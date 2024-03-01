@@ -1,3 +1,8 @@
+![Build](https://github.com/JWKennington/torus/actions/workflows/build.yml/badge.svg)
+[![CodeFactor](https://www.codefactor.io/repository/github/jwkennington/torus/badge)](https://www.codefactor.io/repository/github/jwkennington/torus)
+[![codecov](https://codecov.io/gh/JWKennington/torus/graph/badge.svg?token=s3uaJfzV0q)](https://codecov.io/gh/JWKennington/torus)
+
+
 # Topic Reference Unified Schema: `torus`
 
 The TORUS project is a collection of tools and libraries for working with subject matter references, including articles,
